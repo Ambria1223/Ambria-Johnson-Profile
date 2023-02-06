@@ -1,0 +1,50 @@
+body {
+    text-align:center;
+
+    
+}
+
+h1 {
+    color:rgb(4, 19, 55);
+    text-align: center;
+    
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+  div {
+    text-align:center;
+    width: 550px;
+    padding: 50px;
+    margin: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: inline;
+    color: rgb(4, 19, 55);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration style:wavy;
+  }
+  
+  li a:hover {
+    background-color: rgb(179, 179, 179);
+  }
+ 
