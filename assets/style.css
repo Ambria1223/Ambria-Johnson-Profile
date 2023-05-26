@@ -28,7 +28,7 @@ to {background-position: -100px 0px;background-size:2750px;}
 }
 
 
-
+@media (max-width: 370px ) {};
 
 h1{
   text-align:center;
@@ -113,3 +113,6 @@ img aboutme.html{
     margin-top: -65px;
     border-radius: 15px;
 }
+
+
+
